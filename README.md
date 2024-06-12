@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @joeybless or you can call me Josep Blessing
+- 👋 Hi there, I’m @joeybless or you can call me Joseph Blessing
 - 👀 I am a Full-stack, WordPress, SharePoint developer and a Database administrator with a passion for crafting seamless digital experiences. With expertise in front-end technologies like HTML, CSS, and JavaScript, coupled with back-end prowess in PHP, Python, Node.js, and databases, Joseph creates robust web and mobile applications. 
 - 🌱 I’m currently learning new technology on building scalable and visual-appealling mobile applicatoons using React Native.
 - 💞️ I’m looking to collaborate with any appropraite senior developer that is interested in motivating my soft skills and enhanced as well.
